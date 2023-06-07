@@ -1,0 +1,37 @@
+body {
+  margin:0%;
+padding: 0%;
+background-color: #fb636393;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  gap: 300px;
+  color: #daf816;
+  background-color: #399475bf;
+  border: 1px solid brown;
+}
+
+.active {
+  color: #3f56fd;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.undefined {
+  color: #ff4848;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  background-color: #6494ed4a;
+  padding:20px;
+  font-size: 30px;
+  color: aliceblue;
+}
